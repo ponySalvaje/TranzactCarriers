@@ -4450,11 +4450,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marce\\Documents\\Tranzact\\TranzactWebService\\Tranzact\\Tranzact.csproj",
+      "projectUniqueName": "C:\\Users\\marce\\Documents\\TranzactCarriers\\TranzactWebService\\Tranzact\\Tranzact.csproj",
       "projectName": "Tranzact",
-      "projectPath": "C:\\Users\\marce\\Documents\\Tranzact\\TranzactWebService\\Tranzact\\Tranzact.csproj",
+      "projectPath": "C:\\Users\\marce\\Documents\\TranzactCarriers\\TranzactWebService\\Tranzact\\Tranzact.csproj",
       "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marce\\Documents\\Tranzact\\TranzactWebService\\Tranzact\\obj\\",
+      "outputPath": "C:\\Users\\marce\\Documents\\TranzactCarriers\\TranzactWebService\\Tranzact\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
