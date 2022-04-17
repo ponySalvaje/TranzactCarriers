@@ -1,0 +1,25 @@
+#inputs {
+    margin: 20px;
+    padding: 20px;
+}
+
+#carriers {
+    margin: 20px;
+    padding: 20px;
+}
+
+.form-select {
+    font-size: 16px !important;
+}
+
+.btn {
+    font-size: 16px !important;
+}
+
+body {
+    font-size: 16px !important;
+}
+
+.row {
+    margin: 15px 0px;
+}
